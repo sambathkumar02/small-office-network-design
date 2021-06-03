@@ -12,6 +12,8 @@
    |--- |---  |
    |Router|1|
    |L3 Switch|1|
+   |AP|1|
+   |PC|15|
   
 ## Features
   - Separated VLAN's for Departments
@@ -19,4 +21,8 @@
   - Wireless Access Points are Configured in separate VLAN for Guest usage
   - Remote access of L3 switch and Router had been enabled
   - Security is Ensured in remote access
+  - Design is Scalable Upto More the 60 Computers
+
+## Design
+![]()
   

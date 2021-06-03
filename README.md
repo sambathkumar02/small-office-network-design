@@ -14,9 +14,9 @@
    |L3 Switch|1|
   
 ## Features
-  -Separated VLAN's for Departments
-  -Layer 3 Switch used as Gateway Device to reduce traffic
-  -Wireless Access Points are Configured in separate VLAN for Guest usage
-  -Remote access of L3 switch and Router had been enabled
-  -Security is Ensured in remote access
+  - Separated VLAN's for Departments
+  - Layer 3 Switch used as Gateway Device to reduce traffic
+  - Wireless Access Points are Configured in separate VLAN for Guest usage
+  - Remote access of L3 switch and Router had been enabled
+  - Security is Ensured in remote access
   

@@ -24,5 +24,6 @@
   - Design is Scalable Upto More the 60 Computers
 
 ## Design
-![Design](https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![Design Images](https://github.com/sambathkumar02/small-office-network-design/blob/master/Images/Remote-Connection.png)
+![](https://github.com/sambathkumar02/small-office-network-design/blob/master/Images/Design.png)
   

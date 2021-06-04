@@ -25,5 +25,7 @@
 
 ## Design
 ![Design Images](https://github.com/sambathkumar02/small-office-network-design/blob/master/Images/Remote-Connection.png)
+
+
 ![](https://github.com/sambathkumar02/small-office-network-design/blob/master/Images/Design.png)
   
